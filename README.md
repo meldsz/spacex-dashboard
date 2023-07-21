@@ -3,6 +3,22 @@ This application displays SpaceX launch data using the data consumed from [Space
 
 The application is bootstrapped using Vite and built using React and Material UI and is unit-tested with Jest and React Testing library.
 
+### Desktop:
+<img width="959" alt="image" src="https://github.com/meldsz/spacex-dashboard/assets/11755694/8e45a8e1-6281-4421-9d99-578489e1b7f0">
+
+<img width="959" alt="image" src="https://github.com/meldsz/spacex-dashboard/assets/11755694/0731eb3e-3da4-48e2-b0b3-2f1e62d16546">
+
+<img width="944" alt="image" src="https://github.com/meldsz/spacex-dashboard/assets/11755694/3fe74c0b-6370-4f64-a401-614c8097be7f">
+
+
+
+
+### Touch:
+<img width="189" alt="image" src="https://github.com/meldsz/spacex-dashboard/assets/11755694/9dcc9c3e-fb89-4add-8fe4-4de655d7a2c0">
+<img width="182" alt="image" src="https://github.com/meldsz/spacex-dashboard/assets/11755694/9eea6551-d806-46fc-8f8b-780acca9a724">
+
+<img width="186" alt="image" src="https://github.com/meldsz/spacex-dashboard/assets/11755694/65bc8776-d033-4e60-961b-530307476f96">
+
 
 # 💻  Developer Environment Setup Guide
 
