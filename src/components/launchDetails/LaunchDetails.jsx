@@ -42,7 +42,7 @@ export default function LaunchDetails({ flight }) {
               <Box
                 sx={{
                   color: "text.primary",
-                  fontSize: 24,
+                  fontSize: 20,
                   fontWeight: "bold"
                 }}
               >

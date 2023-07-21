@@ -22,7 +22,7 @@ const Header = () => {
 
   return (
     <HeaderStyled>
-      <h1>SpaceX Launch Dashboard</h1>
+      <h2>SpaceX Launch Dashboard</h2>
       <div></div>
       <Filter updateFilter={filterLaunches} />
       <Search updateSearch={filterLaunches} />
