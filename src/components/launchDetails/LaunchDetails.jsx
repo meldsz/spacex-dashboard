@@ -57,7 +57,7 @@ export default function LaunchDetails({ flight }) {
                 sx={{
                   fontSize: 18,
                   fontWeight: "regular",
-                  lineHeight: 2
+                  lineHeight: 1.5
                 }}
               >
                 {formattedDate(flight.date_local)}
