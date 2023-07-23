@@ -35,15 +35,12 @@ In order to setup the application locally, Clone this repository and follow the 
 
 Install project dependencies:
 
-    ```bash
     $ npm install
-    ```
 
 Run the application locally on dev server
    
-    ```bash
+    
     $ npm run dev
-    ```
 
 By default, Vite dev server runs the application on [http://localhost:5173](http://localhost:5173). 
 
@@ -51,15 +48,15 @@ By default, Vite dev server runs the application on [http://localhost:5173](http
 
 To the build the application for production,
 
-    ```bash
+    
     $ npm run build
-    ```
+    
 
 To Preview the production build locally,
    
-    ```bash
+    
     $ npm run preview
-    ```
+    
 
 By default, Vite runs the preview application on [http://localhost:4173](http://localhost:4173). 
 
