@@ -33,26 +33,35 @@ In order to setup the application locally, Clone this repository and follow the 
 
 ### Running Application Locally
 
-1. Install project dependencies:
+Install project dependencies:
 
     ```bash
     $ npm install
     ```
-2. Build the application
+
+Run the application locally on dev server
    
+    ```bash
+    $ npm run dev
+    ```
+
+By default, Vite dev server runs the application on [http://localhost:5173](http://localhost:5173). 
+
+### Production Build
+
+To the build the application for production,
+
     ```bash
     $ npm run build
     ```
 
-3. Start the application
+To Preview the production build locally,
    
     ```bash
     $ npm run preview
     ```
 
-
-By default, Vite runs the application on [http://localhost:4173](http://localhost:4173). It will automatically pick the port if the default port is in use. To view the application in the browser, use the port shown by the output of the above command.
-
+By default, Vite runs the preview application on [http://localhost:4173](http://localhost:4173). 
 
 ### 🏃 Running Tests
 

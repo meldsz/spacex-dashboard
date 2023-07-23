@@ -3,7 +3,7 @@ import Filter from "../filter/Filter";
 import Search from "../search/Search";
 import styled from "@emotion/styled";
 import { usePostLaunches } from "../../hooks/usePostLaunches";
-import { Typography, Box } from '@mui/material'
+import { Box } from '@mui/material'
 
 const HeaderStyled = styled.div`
   display: grid;
